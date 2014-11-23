@@ -1,6 +1,8 @@
 Project-Euler
 =============
 
-My Progress Through Project Euler
+My Progress Through Project Euler.
 
--first question done sans-coding =)
+First question done sans-code with a pen, sheet of paper, and a calculator.
+
+Feel free to critique everything I do. 
