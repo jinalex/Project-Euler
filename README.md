@@ -3,6 +3,6 @@ Project-Euler
 
 My Progress Through Project Euler.
 
-First question done sans-code with a pen, sheet of paper, and a calculator.
+Questions done sans-code: 1, 5
 
 Feel free to critique everything I do. 
