@@ -1,4 +1,3 @@
-
 n = 200000
 
 primeArray = [True] * n

@@ -46,11 +46,8 @@ while i < 989:
                 tempAdj = []
                 
 print "THE ANSWER IS THE PRODUCT OF THIS ARRAY\n",largeAdj
-
 answer = 1
 for n in largeAdj:
                 answer = answer*n
-                
 print "\nWHICH IS :",answer
-
 print "\nThat took ",time.time()-start, "seconds!"
